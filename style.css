@@ -89,7 +89,7 @@ main{
 .letra-android{
     font-family: var(--fonte1);
     color: var(--cor4);
-    padding: 10px;
+    padding: 20px;
 }
 
 #titulo-main{
