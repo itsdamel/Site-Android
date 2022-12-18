@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300&display=swap');
 @font-face {
@@ -364,6 +363,7 @@ ul{
 footer{
     background-color: var(--cor5);
     color: var(--cor0);
+    width: 100%;
     text-align: center;
     font-size: 14px;
     padding: 10px;
@@ -382,5 +382,3 @@ footer > a:hover{
 footer > strong{
     color: var(--cor0);
     font-weight: bold;
->>>>>>> 4f144617d8e2afef4951b828643d76fee0e46647
-}
