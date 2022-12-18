@@ -75,7 +75,7 @@ nav > a:hover{
 }
 
 main{
-  min-width: 300px;
+    min-width: 300px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
@@ -101,7 +101,7 @@ main{
     padding-left: 10px;
 }
 
-main p{
+p{
      margin: 15px 0px;
     text-align: justify;
     text-indent: 30px;
