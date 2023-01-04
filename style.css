@@ -195,7 +195,3 @@ footer > a{
 footer > a:hover{
     color: var(--cor4);
 }
-footer > strong{
-    color: var(--cor0);
-    font-weight: bold;
-}
